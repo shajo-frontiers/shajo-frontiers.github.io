@@ -2,7 +2,7 @@
 layout: default
 title: チームA
 ---
-# チームA：[チームA]
+## チームA：[チームA]
 
 ## メンバー
 
