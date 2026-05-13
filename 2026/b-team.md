@@ -6,9 +6,9 @@ title: チームB
 
 ## メンバー
 
-| GitHub ID | 担当予定 |
+| GitHub ID | himezima |
 |:----------|:---------|
-| @username | 未定     |
+| @username | 今哉人     |
 
 ## わたしたちが作りたいスポット紹介サイト
 
